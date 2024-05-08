@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cars-reactredux-app/static/css/main.2a2e4678.css",
+    "main.js": "/cars-reactredux-app/static/js/main.9a9a4642.js",
+    "index.html": "/cars-reactredux-app/index.html",
+    "main.2a2e4678.css.map": "/cars-reactredux-app/static/css/main.2a2e4678.css.map",
+    "main.9a9a4642.js.map": "/cars-reactredux-app/static/js/main.9a9a4642.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a2e4678.css",
+    "static/js/main.9a9a4642.js"
+  ]
+}
